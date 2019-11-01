@@ -1,0 +1,4 @@
+type,Total Rides,Total Drivers,Total Fare,Avg. Fare per Ride,Avg. Fare per Driver
+Rural,125,537,"$4,327.93",$34.62,$8.06
+Suburban,625,8570,"$19,356.33",$30.97,$2.26
+Urban,1625,59602,"$39,854.38",$24.53,$0.67
